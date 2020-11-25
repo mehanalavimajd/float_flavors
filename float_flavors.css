@@ -18,6 +18,10 @@
     width: 120px;
     height: 120px;
 }
+.onex{
+    width:70px;
+    height:70px;
+}
 /* svg - not colorful */
 .gamepad{
     content: url(svg/gamepad.svg);
