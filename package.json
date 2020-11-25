@@ -1,0 +1,30 @@
+{"float flavors":{
+    "svg":{
+        "not_colorful":[
+        "app.svg",
+        "arrow.svg",
+        "clock.svg",
+        "cloud.svg",
+        "download.svg",
+        "exampaper.svg",
+        "gamepad.svg",
+        "heart",
+        "js.svg",
+        "mail.svg",
+        "notsure.svg",
+        "paper.svg",
+        "pencil.svg",
+        "sad.svg",
+        "smile.svg",
+        "ticket.svg",
+        "upload.svg"
+        ],
+        "colorful":[
+            "facebook.svg",
+            "heart.svg",
+            "cpencil.svg",
+            "submit.svg"  
+        ]
+    }
+}
+}

@@ -1,0 +1,87 @@
+.ff{
+    text-decoration: none;
+}
+/* size */
+.fivex{
+    width: 300px;
+    height: 300px;
+}
+.fourx{
+    width: 240px;
+    height: 240px;
+}
+.threex{
+    width: 180px;
+    height: 180px;  
+}
+.twox{
+    width: 120px;
+    height: 120px;
+}
+/* svg - not colorful */
+.gamepad{
+    content: url(svg/gamepad.svg);
+    width: 70px;
+    height: 70px;
+}
+.clock{
+    content: url(svg/clock.svg);
+}
+.pencil{
+    content: url(svg/pencil.svg);
+}
+.js{
+    content: url(svg/js.svg);
+}
+.heart{
+    content: url(svg/heart.svg);
+}
+.app{
+    content: url(svg/app.svg);
+}
+.smile{
+    content: url(svg/smile.svg);
+}
+.sad{
+    content: url(svg/sad.svg);
+}
+.cloud{
+    content: url(svg/cloud.svg);
+}
+.ticket{
+    content: url(svg/ticket.svg);
+}
+.upload{
+    content: url(svg/upload.svg);
+}
+.download{
+    content: url(svg/download.svg);
+}
+.mail{
+    content: url(svg/mail.svg);
+}
+.arrow{
+    content: url(svg/arrow.svg);
+}
+.paper{
+    content: url(svg/paper.svg);
+}
+.notsure{
+    content: url(svg/notsure.svg);
+}
+.exampaper{
+    content: url(svg/exampaper.svg);
+}
+/* svg - colorful */
+.cpencil{
+    content: url(svg/colorful/pencilc.svg);
+}
+.cheart{
+    content: url(svg/colorful/heart.svg);
+}
+.ffsubmit{
+    content: url(svg/colorful/submit.svg);
+}
+.cfacebook{
+    content: url(svg/colorful/facebook.svg);
+}
